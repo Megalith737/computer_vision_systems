@@ -1,0 +1,4 @@
+﻿detector,n_points_mean,descriptor_type,descriptor_dim,descriptor_storage,t_detect_ms,t_describe_ms,t_total_ms
+Harris (власний),500.0,немає,-,-,161.3,0.0,161.3
+SIFT,500.0,float32 (вектор градієнтів),128,float32,493.1,271.2,764.3
+ORB,500.0,бітовий (бінарний),256,"uint8, 32 байт",67.9,35.6,103.5
