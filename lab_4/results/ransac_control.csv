@@ -1,0 +1,6 @@
+﻿frame,n_cand,n_inl_own,n_inl_lib,corner_err_own_px,corner_err_lib_px,passed
+IMG_8735,2982,2848,2848,0.073,0.073,True
+IMG_8736,3081,2962,2962,0.044,0.044,True
+IMG_8737,2993,2928,2928,0.069,0.07,True
+IMG_8738,900,843,843,0.079,0.071,True
+IMG_8739,1817,1755,1755,0.089,0.082,True
