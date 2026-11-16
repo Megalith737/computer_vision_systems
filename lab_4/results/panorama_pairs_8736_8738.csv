@@ -1,0 +1,4 @@
+﻿pair,kind,n_cand,n_inl_direct,plausible,E_chain_mean,E_chain_median,n_within_tau,share_within_tau,overlap_px,mae_gray
+8736-8737,сусідні,1186,823,True,1.25,1.13,823,0.6939,875418,25.56
+8736-8738,несусідні,33,3,False,,,0,0.0,0,
+8737-8738,сусідні,99,23,True,0.496,0.517,23,0.2323,809953,45.65
