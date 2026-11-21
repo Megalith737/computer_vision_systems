@@ -1,0 +1,3 @@
+﻿scene,left,right,group_left,group_right,sharp_left,sharp_right,n_inliers,dx_left_to_right_px,dy_left_to_right_px,lr_votes
+T,IMG_9551,IMG_9549,IMG_9551|IMG_9552,IMG_9549|IMG_9550,1411.6,1397.4,938,-118.43,-15.91,4/4
+F,IMG_9553,IMG_9555,IMG_9553|IMG_9554,IMG_9555|IMG_9556,2070.7,2012.7,1209,-180.65,24.83,4/4
